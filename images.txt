@@ -9,5 +9,5 @@ excalidraw/excalidraw
 photoprism/photoprism
 difegue/navidrome
 dezhao/lanraragi_cn
-hectorqin/reader
 homeassistant/home-assistant
+hectorqin/reader
