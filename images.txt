@@ -11,3 +11,4 @@ difegue/navidrome
 dezhao/lanraragi_cn
 homeassistant/home-assistant
 hectorqin/reader
+linuxserver/syncthing
