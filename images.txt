@@ -1,1 +1,1 @@
-rapidfort/mariadb-official
+mariadb
