@@ -1,2 +1,3 @@
 mariadb
 kodcloud/kodbox
+portainer/portainer-ce
