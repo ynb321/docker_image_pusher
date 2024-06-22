@@ -1,3 +1,4 @@
 adminer
 hectorqin/reader
 jellyfin/jellyfin
+linuxserver/jackett
