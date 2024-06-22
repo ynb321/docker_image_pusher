@@ -1,6 +1,1 @@
-adminer
-hectorqin/reader
-jellyfin/jellyfin
-linuxserver/jackett
-dezhao/lanraragi_cn
-difegue/navidrome
+
