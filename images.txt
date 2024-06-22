@@ -1,5 +1,1 @@
-mariadb
-kodcloud/kodbox
-portainer/portainer-ce
-chainguard/jellyfin
-adminer
+
