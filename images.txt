@@ -4,3 +4,4 @@ jellyfin/jellyfin
 linuxserver/jackett
 dezhao/lanraragi_cn
 difegue/navidrome
+yesplaymusic
