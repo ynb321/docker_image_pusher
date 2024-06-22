@@ -3,4 +3,4 @@ hectorqin/reader
 jellyfin/jellyfin
 linuxserver/jackett
 dezhao/lanraragi_cn
-deluan/navidrome
+difegue/navidrome
