@@ -5,3 +5,4 @@ linuxserver/jackett
 dezhao/lanraragi_cn
 deluan/navidrome
 fogforest/yesplaymusic
+carseason/mfun
